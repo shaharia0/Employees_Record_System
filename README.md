@@ -5,14 +5,18 @@ Introduction :
 The project was made to solve the record or details problem of employees .
 Objectives : The main objective of this project is to save or store the full information of the employees of any organizations .
 Target Customers : Any organizations or Multi National company or any kind of shop can use this Application .
+
 Features :
+
 Functional requirements :
+
 1. Online Database
 2. Online Server
 3. Local Host
 4. Design like CSS, Bootstarp.
 5. Html code
 6. Php , java Script Programming language
+
 Non-functional Requirements :
 1. Color code
 2. Font size
