@@ -16,8 +16,12 @@ Functional requirements :
 Non-functional Requirements :
 1. Color code
 2. Font size
+
+
 Tools and Resources :
 This is a web based application . so here I need php programming language as a core language . Beside this , I use java Script also . The design was created using html , CSS and Bootstarp.
+
+
 Outcome of Project :
 The people can easily store or collect their details information using this application
 Challenges :
