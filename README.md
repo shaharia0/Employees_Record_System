@@ -30,16 +30,21 @@ Outcome of Project :
 The people can easily store or collect their details information using this application
 Challenges :
 The Database connection took much time and also the back-end code.
+
 Timeframe :
+
 Phase
 Description of works
 Start and End Dates
+
 Phase-1
 Creates front-end design pattern.
 June (1-10 )
+
 Phase-2
 Working on database design
 June (11-20 )
+
 Phase-3
 Do Back-end Code
 June (20-30 )
